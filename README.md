@@ -25,10 +25,6 @@ flat-disks/
 ├── ch5_gaussian_sectors/
 │   ├── data/
 │   │   ├── rplt_data.hdf5
-│   │   ├── samples_N100
-│   │   ├── samples_N500
-│   │   ├── samples_N1000
-│   │   └── samples_N5000
 │   └── gaussian_comparison.ipynb
 │
 ├── pyproject.toml
