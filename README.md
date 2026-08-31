@@ -3,7 +3,7 @@ This repository includes all code written for the Masters thesis titled
 
 **JT Gravity and the Continuum Limit of Random Flat Disks**
 
-by Marieke van den Dungen at Radboud University, Nijmegen, the Netherlands. The code implements the numerical experiments used to study uniform random flat disks, and their proposed continuum description in terms of Gaussian disk sectors.
+by Marieke van den Dungen at Radboud University, Nijmegen, the Netherlands (2026). The code implements the numerical experiments used to study uniform random flat disks, and their proposed continuum description in terms of Gaussian disk sectors.
 
 ## Repository structure
 
